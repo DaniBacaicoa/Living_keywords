@@ -24,3 +24,9 @@ ipykernel
 pandas
 networkx[default]
 torch_geometric
+ollama
+joblib
+requests
+dotenv
+openai
+PyYAML
