@@ -1,0 +1,570 @@
+kwrd,lvl,parent,score
+living lab,0,,0
+innovation hub,1,living lab,9
+co-creation space,1,living lab,9
+experimental testbed,1,living lab,8
+prototyping environment,1,living lab,8
+collaborative research,1,living lab,7
+urban planning tool,1,living lab,7
+community engagement platform,1,living lab,6
+sustainable development model,1,living lab,6
+participatory design method,1,living lab,5
+real-world testing ground,1,living lab,5
+startup ecosystem,2,innovation hub,9
+tech incubator,2,innovation hub,8
+entrepreneurship,2,innovation hub,7
+creative space,2,innovation hub,6
+R&D center,2,innovation hub,8
+business accelerator,2,innovation hub,9
+co-working space,2,innovation hub,6
+collaborative environment,2,co-creation space,9
+innovation hub,2,co-creation space,8
+design thinking,2,co-creation space,8
+co-working space,2,co-creation space,7
+creative community,2,co-creation space,7
+participatory design,2,co-creation space,6
+ideation process,2,co-creation space,6
+pilot program,2,experimental testbed,9
+proof of concept,2,experimental testbed,9
+test environment,2,experimental testbed,8
+validation framework,2,experimental testbed,8
+research facility,2,experimental testbed,6
+development platform,2,experimental testbed,6
+simulation chamber,2,experimental testbed,5
+rapid application development,2,prototyping environment,8
+agile development,2,prototyping environment,8
+user experience design,2,prototyping environment,7
+software development kit,2,prototyping environment,6
+human-computer interaction,2,prototyping environment,6
+design thinking,2,prototyping environment,7
+iterative design,2,prototyping environment,8
+interdisciplinary studies,2,collaborative research,9
+teamwork,2,collaborative research,8
+scientific cooperation,2,collaborative research,9
+research collaboration,2,collaborative research,8
+co-authorship,2,collaborative research,7
+joint problem-solving,2,collaborative research,8
+cross-functional teams,2,collaborative research,7
+GIS,2,urban planning tool,9
+zoning regulation,2,urban planning tool,8
+transportation management,2,urban planning tool,7
+sustainable development,2,urban planning tool,6
+infrastructure design,2,urban planning tool,8
+land use modeling,2,urban planning tool,9
+city management software,2,urban planning tool,8
+social media integration,2,community engagement platform,8
+online discussion forums,2,community engagement platform,8
+digital outreach tools,2,community engagement platform,7
+civic participation software,2,community engagement platform,7
+public sector engagement,2,community engagement platform,6
+participatory governance,2,community engagement platform,6
+volunteer management systems,2,community engagement platform,5
+environmental conservation,2,sustainable development model,8
+green economy,2,sustainable development model,9
+climate change mitigation,2,sustainable development model,8
+social responsibility,2,sustainable development model,7
+ecological sustainability,2,sustainable development model,9
+renewable energy sources,2,sustainable development model,8
+economic growth strategy,2,sustainable development model,6
+co-creation,2,participatory design method,9
+user-centered design,2,participatory design method,8
+design thinking,2,participatory design method,7
+human-computer interaction,2,participatory design method,6
+collaborative design,2,participatory design method,8
+inclusive design,2,participatory design method,7
+co-design,2,participatory design method,9
+field testing,2,real-world testing ground,9
+experimental design,2,real-world testing ground,8
+practical application,2,real-world testing ground,7
+proof of concept,2,real-world testing ground,7
+validation process,2,real-world testing ground,8
+trial and error,2,real-world testing ground,6
+hands-on experience,2,real-world testing ground,6
+venture capital,3,startup ecosystem,9
+entrepreneurship,3,startup ecosystem,8
+innovation hubs,3,startup ecosystem,8
+small business development,3,startup ecosystem,6
+tech industry trends,3,startup ecosystem,7
+incubators,3,startup ecosystem,9
+accelerators,3,startup ecosystem,9
+startup accelerator,3,tech incubator,9
+venture capital,3,tech incubator,8
+innovation hub,3,tech incubator,8
+entrepreneurship program,3,tech incubator,7
+business incubator,3,tech incubator,9
+startup ecosystem,3,tech incubator,8
+seed funding,3,tech incubator,8
+startups,3,entrepreneurship,9
+small business management,3,entrepreneurship,8
+innovation,3,entrepreneurship,8
+leadership,3,entrepreneurship,6
+management,3,entrepreneurship,6
+business planning,3,entrepreneurship,8
+venture capital,3,entrepreneurship,9
+art studio,3,creative space,9
+innovation hub,3,creative space,8
+design lab,3,creative space,9
+co working,3,creative space,6
+imagination,3,creative space,5
+artistic expression,3,creative space,8
+inspiration,3,creative space,5
+Innovation hub,3,R&D center,9
+Research facility,3,R&D center,9
+Development lab,3,R&D center,8
+Technology park,3,R&D center,7
+Science campus,3,R&D center,7
+Laboratory research,3,R&D center,8
+Product development,3,R&D center,6
+startup incubator,3,business accelerator,9
+venture capital,3,business accelerator,8
+entrepreneurship program,3,business accelerator,8
+growth hacking,3,business accelerator,7
+small business development,3,business accelerator,6
+innovation hub,3,business accelerator,6
+scaling strategy,3,business accelerator,8
+office sharing,3,co-working space,9
+remote work,3,co-working space,8
+flexible workspace,3,co-working space,9
+startup incubator,3,co-working space,7
+freelance community,3,co-working space,8
+shared office,3,co-working space,9
+workspace rental,3,co-working space,8
+teamwork,3,collaborative environment,9
+group work,3,collaborative environment,8
+communication,3,collaborative environment,7
+productivity,3,collaborative environment,6
+remote work,3,collaborative environment,6
+cooperation,3,collaborative environment,5
+organizational culture,3,collaborative environment,5
+startup ecosystem,3,innovation hub,9
+tech incubator,3,innovation hub,8
+entrepreneurship,3,innovation hub,7
+creative space,3,innovation hub,6
+R&D center,3,innovation hub,8
+business accelerator,3,innovation hub,9
+co-working space,3,innovation hub,6
+innovation,3,design thinking,8
+creativity,3,design thinking,8
+problem solving,3,design thinking,7
+human centered design,3,design thinking,9
+ideation,3,design thinking,8
+ux design,3,design thinking,8
+prototyping,3,design thinking,8
+office sharing,3,co-working space,9
+remote work,3,co-working space,8
+flexible workspace,3,co-working space,9
+startup incubator,3,co-working space,7
+freelance community,3,co-working space,8
+shared office,3,co-working space,9
+workspace rental,3,co-working space,8
+artistic collaboration,3,creative community,9
+innovative entrepreneurship,3,creative community,8
+cultural exchange,3,creative community,7
+design thinking,3,creative community,8
+social creativity,3,creative community,7
+community engagement,3,creative community,6
+co-creative spaces,3,creative community,8
+co-creation,3,participatory design,9
+user-centered design,3,participatory design,8
+collaborative design,3,participatory design,8
+design thinking,3,participatory design,7
+human-computer interaction,3,participatory design,6
+inclusive design,3,participatory design,6
+co-production,3,participatory design,5
+brainstorming,3,ideation process,9
+creative thinking,3,ideation process,8
+innovation management,3,ideation process,7
+problem solving,3,ideation process,6
+design thinking,3,ideation process,8
+concept generation,3,ideation process,9
+critical thinking,3,ideation process,5
+trial project,3,pilot program,9
+experimental initiative,3,pilot program,9
+test project,3,pilot program,8
+innovation program,3,pilot program,7
+demonstration project,3,pilot program,7
+beta testing,3,pilot program,6
+proof of concept,3,pilot program,6
+prototype,3,proof of concept,9
+pilot project,3,proof of concept,8
+feasibility study,3,proof of concept,7
+concept testing,3,proof of concept,7
+experimental design,3,proof of concept,6
+validation,3,proof of concept,6
+proof of principle,3,proof of concept,9
+quality assurance,3,test environment,8
+sandbox,3,test environment,8
+staging,3,test environment,9
+development environment,3,test environment,7
+continuous integration,3,test environment,6
+deployment,3,test environment,5
+simulation,3,test environment,4
+data validation,3,validation framework,9
+software testing,3,validation framework,7
+quality assurance,3,validation framework,8
+validation process,3,validation framework,9
+error checking,3,validation framework,6
+verification process,3,validation framework,8
+data integrity,3,validation framework,8
+laboratory,3,research facility,9
+institute,3,research facility,8
+science center,3,research facility,8
+testing site,3,research facility,7
+experimental station,3,research facility,7
+development hub,3,research facility,6
+innovation center,3,research facility,6
+software framework,3,development platform,9
+application development,3,development platform,8
+DevOps tools,3,development platform,7
+cloud computing,3,development platform,6
+coding environment,3,development platform,8
+API management,3,development platform,7
+backend development,3,development platform,8
+environmental testing,3,simulation chamber,9
+climate control room,3,simulation chamber,8
+scientific research facility,3,simulation chamber,7
+controlled atmosphere,3,simulation chamber,9
+experimental lab,3,simulation chamber,6
+testing and validation,3,simulation chamber,8
+environmental simulation,3,simulation chamber,9
+agile development,3,rapid application development,9
+low-code development,3,rapid application development,8
+software development life cycle,3,rapid application development,7
+DevOps,3,rapid application development,6
+application development methodology,3,rapid application development,5
+business process modeling,3,rapid application development,4
+Scrum,3,agile development,9
+Kanban,3,agile development,8
+DevOps,3,agile development,7
+Project Management,3,agile development,6
+Software Development Life Cycle,3,agile development,5
+Iterative Development,3,agile development,8
+Continuous Integration,3,agile development,9
+interaction design,3,user experience design,9
+visual design,3,user experience design,8
+usability engineering,3,user experience design,9
+human-computer interaction,3,user experience design,8
+service design,3,user experience design,7
+information architecture,3,user experience design,8
+user research,3,user experience design,8
+API,3,software development kit,9
+programming languages,3,software development kit,7
+coding tools,3,software development kit,8
+application programming interface,3,software development kit,9
+development tools,3,software development kit,8
+SDKs,3,software development kit,8
+libraries,3,software development kit,7
+usability engineering,3,human-computer interaction,9
+user experience design,3,human-computer interaction,9
+interface design,3,human-computer interaction,8
+computer graphics,3,human-computer interaction,6
+artificial intelligence,3,human-computer interaction,5
+cognitive psychology,3,human-computer interaction,5
+information architecture,3,human-computer interaction,7
+innovation,3,design thinking,8
+creativity,3,design thinking,8
+problem solving,3,design thinking,7
+human centered design,3,design thinking,9
+ideation,3,design thinking,8
+ux design,3,design thinking,8
+prototyping,3,design thinking,8
+agile development,3,iterative design,9
+design thinking,3,iterative design,8
+prototyping,3,iterative design,9
+user experience,3,iterative design,8
+continuous improvement,3,iterative design,8
+incremental development,3,iterative design,9
+design process,3,iterative design,7
+multidisciplinary approach,3,interdisciplinary studies,9
+transdisciplinary research,3,interdisciplinary studies,9
+cross-disciplinary collaboration,3,interdisciplinary studies,8
+integrated studies,3,interdisciplinary studies,8
+holistic learning,3,interdisciplinary studies,7
+systems thinking,3,interdisciplinary studies,7
+academic synthesis,3,interdisciplinary studies,6
+collaboration,3,teamwork,9
+cooperation,3,teamwork,9
+communication,3,teamwork,8
+leadership,3,teamwork,7
+management,3,teamwork,7
+synergy,3,teamwork,8
+partnership,3,teamwork,8
+research collaboration,3,scientific cooperation,9
+academic exchange,3,scientific cooperation,8
+international relations,3,scientific cooperation,6
+global networking,3,scientific cooperation,7
+innovation hubs,3,scientific cooperation,5
+knowledge sharing,3,scientific cooperation,8
+interdisciplinary studies,3,scientific cooperation,7
+interdisciplinary studies,3,research collaboration,8
+scientific community,3,research collaboration,7
+academic networking,3,research collaboration,7
+knowledge sharing,3,research collaboration,6
+innovation hubs,3,research collaboration,6
+cross-functional teams,3,research collaboration,5
+open science,3,research collaboration,5
+collaboration,3,co-authorship,9
+authorship,3,co-authorship,8
+joint publication,3,co-authorship,8
+research partnership,3,co-authorship,7
+academic writing,3,co-authorship,7
+scholarly collaboration,3,co-authorship,6
+teamwork,3,co-authorship,5
+collaboration,3,joint problem-solving,9
+teamwork,3,joint problem-solving,9
+communication,3,joint problem-solving,8
+conflict resolution,3,joint problem-solving,8
+decision-making,3,joint problem-solving,7
+cooperation,3,joint problem-solving,7
+synergy,3,joint problem-solving,6
+collaboration,3,cross-functional teams,9
+teamwork,3,cross-functional teams,8
+organizational structure,3,cross-functional teams,7
+communication,3,cross-functional teams,7
+project management,3,cross-functional teams,6
+interdepartmental cooperation,3,cross-functional teams,6
+synergy,3,cross-functional teams,5
+Geospatial,3,GIS,9
+Mapping,3,GIS,8
+Remote Sensing,3,GIS,8
+Spatial Analysis,3,GIS,9
+Cartography,3,GIS,8
+Location Intelligence,3,GIS,9
+Geographic Information,3,GIS,9
+land use planning,3,zoning regulation,9
+urban development,3,zoning regulation,8
+building codes,3,zoning regulation,8
+property law,3,zoning regulation,7
+municipal governance,3,zoning regulation,6
+town planning,3,zoning regulation,6
+urban policy,3,zoning regulation,5
+logistics,3,transportation management,9
+supply chain optimization,3,transportation management,8
+fleet management,3,transportation management,9
+route planning,3,transportation management,8
+traffic management,3,transportation management,7
+operations management,3,transportation management,6
+infrastructure development,3,transportation management,5
+environmental conservation,3,sustainable development,9
+renewable energy,3,sustainable development,8
+ecological preservation,3,sustainable development,8
+green technology,3,sustainable development,7
+climate change mitigation,3,sustainable development,7
+social responsibility,3,sustainable development,6
+economic growth,3,sustainable development,5
+architecture,3,infrastructure design,9
+urban planning,3,infrastructure design,7
+construction management,3,infrastructure design,8
+transportation systems,3,infrastructure design,7
+sustainable development,3,infrastructure design,6
+facility management,3,infrastructure design,8
+landscape architecture,3,infrastructure design,6
+urban planning,3,land use modeling,8
+geographic information systems,3,land use modeling,9
+sustainable development,3,land use modeling,7
+environmental impact assessment,3,land use modeling,8
+spatial analysis,3,land use modeling,9
+transportation planning,3,land use modeling,6
+gis mapping,3,land use modeling,8
+urban planning tools,3,city management software,8
+municipal software solutions,3,city management software,9
+government technology platforms,3,city management software,8
+public sector software,3,city management software,7
+local governance systems,3,city management software,8
+smart city infrastructure,3,city management software,7
+API connectivity,3,social media integration,9
+Content syndication,3,social media integration,8
+Digital marketing strategy,3,social media integration,7
+Cross-platform sharing,3,social media integration,8
+Online engagement tools,3,social media integration,6
+Data synchronization,3,social media integration,8
+Marketing automation,3,social media integration,7
+social media platforms,3,online discussion forums,8
+bulletin boards,3,online discussion forums,9
+chat rooms,3,online discussion forums,9
+community engagement,3,online discussion forums,7
+digital communication,3,online discussion forums,6
+forum software,3,online discussion forums,8
+message boards,3,online discussion forums,9
+marketing automation software,3,digital outreach tools,9
+social media management,3,digital outreach tools,8
+email marketing platforms,3,digital outreach tools,9
+customer engagement solutions,3,digital outreach tools,8
+online lead generation tools,3,digital outreach tools,8
+influencer marketing software,3,digital outreach tools,7
+sales enablement platforms,3,digital outreach tools,8
+community engagement platforms,3,civic participation software,9
+digital democracy tools,3,civic participation software,8
+participatory governance systems,3,civic participation software,8
+social impact software,3,civic participation software,7
+volunteer management systems,3,civic participation software,6
+online activism platforms,3,civic participation software,6
+e-participation technologies,3,civic participation software,5
+government relations,3,public sector engagement,9
+civic participation,3,public sector engagement,8
+public policy,3,public sector engagement,8
+community development,3,public sector engagement,7
+social responsibility,3,public sector engagement,6
+political involvement,3,public sector engagement,6
+citizen engagement,3,public sector engagement,9
+citizen engagement,3,participatory governance,9
+democratic decision-making,3,participatory governance,9
+public administration,3,participatory governance,7
+civic involvement,3,participatory governance,8
+collaborative management,3,participatory governance,8
+deliberative democracy,3,participatory governance,9
+community development,3,participatory governance,6
+volunteer coordination,3,volunteer management systems,9
+nonprofit software,3,volunteer management systems,8
+volunteer engagement,3,volunteer management systems,8
+volunteer tracking,3,volunteer management systems,7
+volunteer recruitment,3,volunteer management systems,7
+volunteer retention,3,volunteer management systems,6
+volunteer communication,3,volunteer management systems,6
+sustainable development,3,environmental conservation,9
+ecological preservation,3,environmental conservation,9
+green technology,3,environmental conservation,8
+climate change mitigation,3,environmental conservation,8
+biodiversity protection,3,environmental conservation,8
+renewable energy sources,3,environmental conservation,7
+ecosystem management,3,environmental conservation,7
+sustainable development,3,green economy,9
+renewable energy,3,green economy,9
+energy efficiency,3,green economy,8
+climate change mitigation,3,green economy,8
+environmental policy,3,green economy,7
+ecofriendly technologies,3,green economy,7
+carbon footprint reduction,3,green economy,6
+sustainable development,3,climate change mitigation,8
+renewable energy,3,climate change mitigation,9
+carbon footprint reduction,3,climate change mitigation,9
+green technology,3,climate change mitigation,8
+energy efficiency,3,climate change mitigation,8
+environmental policy,3,climate change mitigation,7
+ecological conservation,3,climate change mitigation,6
+corporate philanthropy,3,social responsibility,9
+sustainability,3,social responsibility,8
+business ethics,3,social responsibility,9
+environmental stewardship,3,social responsibility,8
+community development,3,social responsibility,7
+csr,3,social responsibility,9
+green initiatives,3,social responsibility,8
+green technology,3,ecological sustainability,8
+renewable energy,3,ecological sustainability,9
+conservation biology,3,ecological sustainability,8
+sustainable development,3,ecological sustainability,9
+environmental policy,3,ecological sustainability,8
+climate change mitigation,3,ecological sustainability,9
+eco-friendly practices,3,ecological sustainability,8
+solar power,3,renewable energy sources,9
+wind energy,3,renewable energy sources,9
+sustainable energy,3,renewable energy sources,8
+green energy,3,renewable energy sources,8
+energy production,3,renewable energy sources,6
+energy efficiency,3,renewable energy sources,6
+carbon footprint,3,renewable energy sources,5
+industrial policy,3,economic growth strategy,8
+fiscal management,3,economic growth strategy,8
+monetary policy,3,economic growth strategy,8
+investment planning,3,economic growth strategy,7
+business development,3,economic growth strategy,7
+market analysis,3,economic growth strategy,7
+financial regulation,3,economic growth strategy,6
+collaboration,3,co-creation,9
+partnership,3,co-creation,8
+innovation,3,co-creation,7
+design thinking,3,co-creation,8
+ideation,3,co-creation,9
+crowdsourcing,3,co-creation,7
+co-production,3,co-creation,9
+human-computer interaction,3,user-centered design,9
+usability engineering,3,user-centered design,9
+design thinking,3,user-centered design,8
+human factors,3,user-centered design,7
+interaction design,3,user-centered design,8
+user experience,3,user-centered design,9
+user research,3,user-centered design,8
+innovation,3,design thinking,8
+creativity,3,design thinking,8
+problem solving,3,design thinking,7
+human centered design,3,design thinking,9
+ideation,3,design thinking,8
+ux design,3,design thinking,8
+prototyping,3,design thinking,8
+usability engineering,3,human-computer interaction,9
+user experience design,3,human-computer interaction,9
+interface design,3,human-computer interaction,8
+computer graphics,3,human-computer interaction,6
+artificial intelligence,3,human-computer interaction,5
+cognitive psychology,3,human-computer interaction,5
+information architecture,3,human-computer interaction,7
+co-creation,3,collaborative design,9
+design thinking,3,collaborative design,8
+participatory design,3,collaborative design,9
+user experience,3,collaborative design,7
+human-centered design,3,collaborative design,8
+design process,3,collaborative design,6
+cooperative work,3,collaborative design,8
+universal design,3,inclusive design,9
+accessibility,3,inclusive design,8
+barrier-free design,3,inclusive design,8
+user experience,3,inclusive design,6
+design for all,3,inclusive design,8
+equitable design,3,inclusive design,8
+social sustainability,3,inclusive design,5
+collaborative design,3,co-design,9
+participatory design,3,co-design,9
+design thinking,3,co-design,8
+human-centered design,3,co-design,8
+co-creation,3,co-design,8
+design methodology,3,co-design,6
+innovation process,3,co-design,5
+quality control,3,field testing,8
+product development,3,field testing,7
+prototype testing,3,field testing,9
+research and development,3,field testing,6
+trial and error,3,field testing,5
+validation testing,3,field testing,8
+experimental design,3,field testing,7
+clinical trials,3,experimental design,9
+statistical analysis,3,experimental design,8
+research methodology,3,experimental design,7
+data collection,3,experimental design,6
+scientific research,3,experimental design,5
+study planning,3,experimental design,4
+hypothesis testing,3,experimental design,8
+real world usage,3,practical application,9
+hands on experience,3,practical application,9
+theoretical vs practical,3,practical application,7
+applied science,3,practical application,7
+utilization,3,practical application,6
+execution,3,practical application,6
+implementation,3,practical application,8
+prototype,3,proof of concept,9
+pilot project,3,proof of concept,8
+feasibility study,3,proof of concept,7
+concept testing,3,proof of concept,7
+experimental design,3,proof of concept,6
+validation,3,proof of concept,6
+proof of principle,3,proof of concept,9
+quality control,3,validation process,9
+verification,3,validation process,9
+testing,3,validation process,7
+certification,3,validation process,8
+authentication,3,validation process,8
+conformity assessment,3,validation process,8
+accreditation,3,validation process,7
+experimentation,3,trial and error,9
+learning process,3,trial and error,8
+problem-solving,3,trial and error,8
+adaptation,3,trial and error,7
+innovation,3,trial and error,7
+hypothesis testing,3,trial and error,9
+error analysis,3,trial and error,8
+practical training,3,hands-on experience,9
+experiential learning,3,hands-on experience,9
+skill development,3,hands-on experience,8
+apprenticeship,3,hands-on experience,8
+on-the-job training,3,hands-on experience,8
+internship,3,hands-on experience,7
+simulation-based learning,3,hands-on experience,7
