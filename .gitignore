@@ -188,3 +188,7 @@ kwds/
 # Old work
 Old/
 Old_notebooks/
+query_cache_old/
+query_cache/
+runs/
+runs_last/
