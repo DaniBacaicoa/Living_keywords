@@ -192,3 +192,11 @@ query_cache_old/
 query_cache/
 runs/
 runs_last/
+
+# Cache
+*cache*
+__pycache__/
+.cache/
+
+# JSON files
+*.json
